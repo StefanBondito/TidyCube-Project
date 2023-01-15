@@ -7,6 +7,12 @@ TidyCube merupakan sebuah prototype aplikasi untuk pengaturan penyimpan suatu pr
 Untuk mengetahui lebih lanjut tentang cara kerja aplikasi TidyCube, silahkan membuka Manual Guide untuk TidyCube pada link berikut ini: 
 https://docs.google.com/document/d/1VUbDNIUwL37poVznXfQW1FuTwGPM1RS6q6rcazFkr0A/edit?usp=sharing
 
+## Authors
+1. Alisha Zahra Saadiya - 2501971742
+2. Gregory nicolla - 2501962340
+3. Stefan Bondito Giovanno - 2540122041
+4. Theophilus Nathan Tanudjaja - 2502007514
+
 ## Features
 - Sistem login dan logout untuk menjaga data-data penting
 - Tampilan layar depan yang berisi total penyimpanan, penjualan, dan keuntungan, serta riwayat transaksi dari toko
@@ -25,7 +31,6 @@ TidyCube menggunakan beberapa aplikasi pemrograman dalam pembuatannya, antara la
 - Apache NetBeans
 - XAMPP
 - MySql Server
-
 
 ## Installation
 TidyCube saat ini membutuhkan aplikasi Apache NetBeans dan XAMPP untuk dijalankan.
