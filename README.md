@@ -5,6 +5,7 @@
 TidyCube merupakan sebuah prototype aplikasi untuk pengaturan penyimpan suatu produk dimana pengguna, yaitu pemilik toko, dapat mengurus jumlah produk yang saat ini sedang dimiliki olehnya, dapat mengatur penjualan produknya kepada pelanggan, dan mencatat pembelian dari produsen untuk mengisi kembali penyimpanannya.
 
 Untuk mengetahui lebih lanjut tentang cara kerja aplikasi TidyCube, silahkan membuka Manual Guide untuk TidyCube pada link berikut ini: 
+https://docs.google.com/document/d/1VUbDNIUwL37poVznXfQW1FuTwGPM1RS6q6rcazFkr0A/edit?usp=sharing
 
 ## Features
 - Sistem login dan logout untuk menjaga data-data penting
