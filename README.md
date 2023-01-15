@@ -1,5 +1,5 @@
 # TidyCube-Project
-![logo](https://drive.google.com/file/d/1VHigjwXBFkLqteEUH5AiS-Dhg2VUTxkp/view?usp=share_link)
+![logo](./Moon_light_logo_template_1.png)
 ## _TidyCube_, An Inventory Manager Application
 
 ## Apa itu TidyCube?
