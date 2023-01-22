@@ -2,14 +2,14 @@
 ![logo](./Moon_light_logo_template_1.png)
 ## _TidyCube_, An Inventory Manager Application
 
-## Apa itu TidyCube?
+## What is TidyCube?
 TidyCube merupakan sebuah prototype aplikasi untuk pengaturan penyimpan suatu produk dimana pengguna, yaitu pemilik toko, dapat mengurus jumlah produk yang saat ini sedang dimiliki olehnya, dapat mengatur penjualan produknya kepada pelanggan, dan mencatat pembelian dari produsen untuk mengisi kembali penyimpanannya.
 
 Untuk mengetahui lebih lanjut tentang cara kerja aplikasi TidyCube, silahkan membuka Manual Guide untuk TidyCube pada link berikut ini: 
 https://docs.google.com/document/d/1VUbDNIUwL37poVznXfQW1FuTwGPM1RS6q6rcazFkr0A/edit?usp=sharing
 <hr>
-Tidycube is an application prototype to assist management for product storing where the user, the shop owner, are able to control the amount of product that they currently have, control their product sellings with customers, and list their expenses when restocking their inventories.
-
+TidyCube is an application prototype to assist management for product storing where the user, the shop owner, are able to control the amount of product that they currently have, control their product sellings with customers, and list their expenses when restocking their inventories.
+<br><br>
 To know more about how the TidyCube Project works, please check the manual guide on the link below:
 https://docs.google.com/document/d/1VUbDNIUwL37poVznXfQW1FuTwGPM1RS6q6rcazFkr0A/edit?usp=sharing
 
