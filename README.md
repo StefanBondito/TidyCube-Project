@@ -7,7 +7,7 @@ TidyCube merupakan sebuah prototype aplikasi untuk pengaturan penyimpan suatu pr
 
 Untuk mengetahui lebih lanjut tentang cara kerja aplikasi TidyCube, silahkan membuka Manual Guide untuk TidyCube pada link berikut ini: 
 https://docs.google.com/document/d/1VUbDNIUwL37poVznXfQW1FuTwGPM1RS6q6rcazFkr0A/edit?usp=sharing
-<br>
+<hr>
 Tidycube is an application prototype to assist management for product storing where the user, the shop owner, are able to control the amount of product that they currently have, control their product sellings with customers, and list their expenses when restocking their inventories.
 
 To know more about how the TidyCube Project works, please check the manual guide on the link below:
